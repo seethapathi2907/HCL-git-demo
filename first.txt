@@ -1,0 +1,2 @@
+hi this is spbram
+how are youto add some kind of code to check the git status
