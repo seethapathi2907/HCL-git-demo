@@ -1,3 +1,5 @@
 This is master.txt file in master branch
 now this file opened in private branch
 once edit is done we need to stage and commit the file in private branch
+this file updated in private branch
+
