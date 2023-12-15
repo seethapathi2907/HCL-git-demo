@@ -1,0 +1,2 @@
+Hi this is public2.txt file
+file located in private branch
